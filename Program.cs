@@ -4,7 +4,7 @@ using System.Linq;
 namespace SOLIDApp
 {
     class Program
-    {  //StartImplemting OCP Concepts
+    {  //StartImplemting OCP Concepts ggggg
         static void Main(string[] args)
         {
             ThemePark warwarLand = new ThemePark();
